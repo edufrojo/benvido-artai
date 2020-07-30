@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Pacifico&display=swap');
+
+.titulo {
+    font-family: 'Pacifico', cursive;
+    font-size: 4em;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.articulo {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.articulo__titulo {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5em;
+    min-height: 45px;
+}
+
+.articulo__precio {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5em;
+    min-height: 20px;
+}
+
+img {
+    max-height: 150px;
+}
