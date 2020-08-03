@@ -16,12 +16,22 @@
   margin-bottom: 50px;
 }
 
-#lista-articulos {
+.subtitulo {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-size: 2em;
+  text-align: center;
+  margin-top: 50px;
+}
+
+#lista-articulos,
+#contacto {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   align-items: stretch;
   align-content: center;
+  margin-bottom: 50px;
 }
 
 .articulo {
