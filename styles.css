@@ -10,18 +10,10 @@
 .titulo {
   font-family: "Pacifico", cursive;
   font-weight: 400;
-  font-size: 4em;
+  font-size: 2.3em;
   text-align: center;
   margin-top: 50px;
-  margin-bottom: 50px;
-}
-
-.subtitulo {
-  font-family: "Pacifico", cursive;
-  font-weight: 400;
-  font-size: 2em;
-  text-align: center;
-  margin-top: 50px;
+  margin-bottom: 0px;
 }
 
 #lista-articulos,

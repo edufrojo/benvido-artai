@@ -2,13 +2,13 @@ var listArt = articulos;
 
 var contenedor = document.getElementById("lista-articulos");
 
-for (let index = 0; index < listArt.length; index++) {
+for (let i = 0; i < listArt.length; i++) {
   contenedor.innerHTML +=
     '<div class="articulo"><img class="articulo__imagen" src="' +
-    listArt[index].Imagen +
+    listArt[i].Imagen +
     '" alt="" /><h3 class="articulo__titulo">' +
-    listArt[index].Nombre +
+    listArt[i].Nombre +
     '</h3><div class="articulo__precio">' +
-    listArt[index].Precio +
+    listArt[i].Precio +
     "</div></div>";
 }
