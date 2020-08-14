@@ -12,18 +12,25 @@
   font-weight: 400;
   font-size: 2.3em;
   text-align: center;
-  margin-top: 50px;
+  margin-top: 0px;
   margin-bottom: 0px;
 }
 
 #lista-articulos,
-#contacto {
+#contacto,
+#portada {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   align-items: stretch;
   align-content: center;
-  margin-bottom: 50px;
+  margin-bottom: 100px;
+}
+
+.logo {
+  margin-top: 50px;
+  height: auto;
+  width: 25vw;
 }
 
 .articulo {
@@ -47,6 +54,11 @@
   display: block;
   max-width: 100%;
   margin: 0 auto;
+}
+
+#contacto p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1em;
 }
 
 @media all and (min-width: 40em) {
