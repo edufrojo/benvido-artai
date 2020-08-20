@@ -34,6 +34,7 @@
 }
 
 .articulo {
+  position: relative;
   padding: 40px;
 }
 
@@ -41,6 +42,7 @@
   font-family: "Open Sans", sans-serif;
   font-size: 1.5em;
   text-align: center;
+  text-transform: capitalize;
 }
 
 .articulo__precio {
@@ -54,6 +56,18 @@
   display: block;
   max-width: 100%;
   margin: 0 auto;
+}
+
+.articulo__reserva {
+  position: absolute;
+  top: 170px;
+  left: 5px;
+  font-size: 3em;
+  padding: 0 10px;
+  color: white;
+  background-color: red;
+  border-radius: 10px;
+  transform: rotate(-40deg);
 }
 
 #contacto p {
