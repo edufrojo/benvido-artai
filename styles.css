@@ -59,10 +59,12 @@
 }
 
 .articulo__reserva {
-  position: absolute;
-  top: 180px;
-  left: 0px;
-  font-size: 3em;
+  position: relative;
+  max-width: 200px;
+  margin: 0 auto;
+  text-align: center;
+  bottom: 180px;
+  font-size: 2em;
   padding: 0 10px;
   color: white;
   background-color: red;
