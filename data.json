@@ -1,9 +1,9 @@
   const articulos = [
     {
       "Nombre": "Primera puesta y gorro modelo ALFA",
-      "Precio": "27.40€",
+      "Precio": "",
       "Imagen": "https://senderela.es/1491-large_default/primera-puesta-gorrito-alfa.jpg",
-      "Reserva": "0"
+      "Reserva": "1"
     },
     {
       "Nombre": "Mochila ergobaby (negra)",
@@ -31,15 +31,15 @@
     },
     {
       "Nombre": "Muselina don algodón (animales)",
-      "Precio": "11.90€",
+      "Precio": "",
       "Imagen": "https://cascabelbebe.es/1535-large_default/muselina-120x120-gatito-don-algodon.jpg",
-      "Reserva": "0"
+      "Reserva": "1"
     },
     {
       "Nombre": "Capa de baño chini (animalito verde menta)",
-      "Precio": "29.50€",
+      "Precio": "",
       "Imagen": "https://infantdeco.es/wp-content/uploads/2019/09/capa-de-bano-jirafa-mint-de-zoocchini936827.jpg",
-      "Reserva": "0"
+      "Reserva": "1"
     },
     {
       "Nombre": "Gimnasio/manta actividades tiny love",
@@ -78,16 +78,10 @@
       "Reserva": "1"
     },
     {
-      "Nombre": "Doudou DC 3650 azul",
-      "Precio": "19.90€",
-      "Imagen": "https://www.brickone.it/wp-content/uploads/2020/05/DC3650_Balena_Doudou.jpg",
-      "Reserva": "0"
-    },
-    {
       "Nombre": "Colchoneta cambiador estrella",
-      "Precio": "25.90€",
+      "Precio": "",
       "Imagen": "https://www.textilhogartienda.com/server/Portal_0031169/img/products/cambiador-acolchado-y-impermeable-con-medidor-estrellas70cms_9355230_xxl.jpg",
-      "Reserva": "0"
+      "Reserva": "1"
     },
     {
       "Nombre": "Colchón transpirable mini cuna",
@@ -121,15 +115,15 @@
     },
     {
       "Nombre": "Babero azul",
-      "Precio": "5€",
+      "Precio": "",
       "Imagen": "https://elultimokoala.com/17950-thickbox_default/bandanas-bebe-bambu-timboo.jpg",
-      "Reserva": "0"
+      "Reserva": "1"
     },
     {
       "Nombre": "Pack 2 Baberos Dinos",
       "Precio": "11€",
       "Imagen": "https://chollosbebe.es/WebRoot/Store24/Shops/6e872a3f-82ab-4707-96da-4f3eebe4bc10/5C1C/0ECB/57C5/347B/7AC5/0A48/355B/0443/29050413_ml.jpg",
-      "Reserva": "0"
+      "Reserva": "1"
     },
     {
       "Nombre": "Vigila bebes Jané Sincro Ref: 50473",
@@ -141,12 +135,16 @@
       "Nombre": "Muselina Jane Captus",
       "Precio": "15.95€",
       "Imagen": "https://images-na.ssl-images-amazon.com/images/I/41UcmwNhMAL._AC_.jpg",
-      "Reserva": "0"
+      "Reserva": "1"
     },
     {
       "Nombre": "Silla de Auto REVOL FIX XL Rock PLAYXTREM",
       "Precio": "235€",
       "Imagen": "https://www.dulcebebesoletes.com/bmz_cache/a/silla-de-auto-revol-fix-xl-rock-playxtrem-1000x1000.jpg",
       "Reserva": "0"
-    }
+    },
+      "Nombre": "Gancho carro",
+      "Precio": "",
+      "Imagen": "",
+      "Reserva": "1",
   ]
