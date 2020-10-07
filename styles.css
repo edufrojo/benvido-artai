@@ -1,6 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Pacifico&display=swap");
 
-.container {
+section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: stretch;
+  align-content: center;
+  margin-bottom: 100px;
   max-width: 1024px;
   margin: 0 auto;
   padding-left: 15px;
@@ -14,17 +20,6 @@
   text-align: center;
   margin-top: 0px;
   margin-bottom: 0px;
-}
-
-#lista-articulos,
-#contacto,
-#portada {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: stretch;
-  align-content: center;
-  margin-bottom: 100px;
 }
 
 .logo {
