@@ -146,7 +146,7 @@
     {
       "Nombre": "Gancho carro",
       "Precio": "",
-      "Imagen": "",
+      "Imagen": "https://factoriadelbebe.com/6348-cart_default/mini-mosqueton-jane.jpg",
       "Reserva": "1"
     },
     {
@@ -156,20 +156,26 @@
       "Reserva": "0"
     },
     {
-      "Nombre": "Funda grupo 0",
+      "Nombre": "Funda porta bebe (grupo 0)",
       "Precio": "41.80€",
       "Imagen": "",
       "Reserva": "0"
     },
     {
-      "Nombre": "Funda hamaca Beby Bjorn",
-      "Precio": "",
+      "Nombre": "Funda hamaca Baby Bjorn",
+      "Precio": "34.95€",
+      "Imagen": "",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Funda cambiador",
+      "Precio": "21.50€",
       "Imagen": "",
       "Reserva": "0"
     },
     {
       "Nombre": "Esponja natural",
-      "Precio": "",
+      "Precio": "6.90€",
       "Imagen": "",
       "Reserva": "0"
     }
