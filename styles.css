@@ -1,7 +1,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Pacifico&display=swap");
 
 body {
+  height: 100vh;
   margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1em;
 }
 
 #portada,
@@ -16,8 +24,9 @@ body {
 }
 
 #portada,
-#lista-articulos {
-  margin-bottom: 50px;
+#lista,
+#contacto {
+  padding-bottom: 50px;
 }
 
 #lista {
@@ -61,7 +70,7 @@ body {
 
 .articulo:hover {
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
-  transform: scale(1.2);
+  transform: scale(1.1);
 }
 
 .articulo__imagen {
@@ -114,9 +123,20 @@ body {
   border-radius: 10px;
 }
 
-#contacto p {
-  font-family: "Open Sans", sans-serif;
-  font-size: 1em;
+footer {
+  min-height: 50px;
+  margin-top: auto;
+  background-color: black;
+}
+
+footer p {
+  text-align: right;
+}
+
+footer p a {
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
 }
 
 @media all and (min-width: 40em) {
