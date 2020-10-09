@@ -178,5 +178,17 @@
       "Precio": "6.90€",
       "Imagen": "",
       "Reserva": "0"
+    },
+    {
+      "Nombre": "Cuna Nature",
+      "Precio": "Pendiente",
+      "Imagen": "https://windeln-assets.windeln-static.net/product/1000.XlY5rcqH6R57Sm0T/8431830191989.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Cómoda Nature",
+      "Precio": "Pendiente",
+      "Imagen": "http://www.micuna.com/10130-large_default/banera-b-1921-nature.jpg",
+      "Reserva": "0"
     }
   ]
