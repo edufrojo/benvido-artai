@@ -1,4 +1,10 @@
   const articulos = [
+    }
+      "Nombre": "Funda nórdica y protector",
+      "Precio": "Consultar",
+      "Imagen": "",
+      "Reserva": "0"
+    },
     {
       "Nombre": "Sabana protector capazo",
       "Precio": "9.90€",
@@ -37,19 +43,19 @@
     },
     {
       "Nombre": "Cuna Nature",
-      "Precio": "Pendiente",
+      "Precio": "Consultar",
       "Imagen": "https://windeln-assets.windeln-static.net/product/1000.XlY5rcqH6R57Sm0T/8431830191989.jpg",
       "Reserva": "0"
     },
     {
       "Nombre": "Cómoda Nature",
-      "Precio": "Pendiente",
+      "Precio": "Consultar",
       "Imagen": "http://www.micuna.com/10130-large_default/banera-b-1921-nature.jpg",
       "Reserva": "0"
     },
     {
       "Nombre": "Armario Nature",
-      "Precio": "Pendiente",
+      "Precio": "Consultar",
       "Imagen": "http://www.micuna.com/9994-thickbox_default/armario.jpg",
       "Reserva": "0"
     },
