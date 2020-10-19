@@ -1,5 +1,11 @@
   const articulos = [
     {
+      "Nombre": "Cojín de lactancia con almohada Sky",
+      "Precio": "36.95€",
+      "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTG4slcqqYSNUpZ7dgKbeTGR_gF3iD4hWhDIcTyb3_3uApc1xLzBSEkKvQAFBi4Z1mhkpYDjyoU&usqp=CAc",
+      "Reserva": "0"
+    },
+    {
       "Nombre": "Set de cojines de formas",
       "Precio": "Consultar",
       "Imagen": "https://ucb150becf9209a82c5aefc95252.previews.dropboxusercontent.com/p/thumb/AA9qo92nce75UuudkVr7kottCJKc4y6KUF4xN1zlYJs8Neub736tNsdXyuU1wIWQvvgM4xaB6Qzv7T3i4RLFr7BIFMaulUxRwq97DZ1EXxFR9C3wX7LpJ7f2NwvCaYPwNFajbBNkzYkF3xQcEffrNUITREP25z15BhoZry27oYwqN3rNWCXlSpIWdnqfWV_FH3HMSZYFm97yiBrw-Lk5xoLccrk1fo-FbkDq3kHhoY9p-f1MvNBHwQEwy-vuG9ZU5Nh75-AZPqPpcHAJhOV88tG2V5uDzF9fe5CpnUbdYeWiUivMvTXkg8YJyUT4yBvPuuKxTgZjN1IcOrjSxlixHzzX1rDXfxIS_1uXB-2mqIrjCdszoUXWt_IfD7p5VrrLFmKOb6M18etxEwSHB9QKPfnY2YyQSsW9nnzXWBQROGrbaMwUUmBX6hn3x29Urj2-rSgmYJVtpE2QsUyUb5qqv5AFkiv9u0By5aFl596D3Zdvmg/p.jpeg?size=2048x1536&size_mode=3",
@@ -25,7 +31,7 @@
     },
     {
       "Nombre": "Funda porta bebe (grupo 0)",
-      "Precio": "",
+      "Precio": "41.80€",
       "Imagen": "https://static1.latiendademama.es/150943-large_default/funda-cancun-bear-vigore-baby-clic.jpg",
       "Reserva": "0"
     },
